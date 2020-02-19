@@ -1,0 +1,21 @@
+Engineering of Saccharomyces cerevisiae for the Synthesis of Short Chain Fatty Acid.
+Saccharomyces cerevisiae was engineered to produce short chain carboxylic acids (C6 to C10) from glucose using the heterologous Homo sapiens type I fatty acid synthase (hFAS).
+Using the native yeast fatty acid synthase for growth, the overexpression of the hFAS mutants and the growth, the overexpression of the hFAS mutants and the short-chain TEs (linked or plasmid-based) increased in vivo short-chain TEs (linked or plasmid-based) increased in vivo caprylic acid and total SCFA production up to 64-fold caprylic acid and total SCFA production up to 64-fold (63 mg/L) and 52-fold (68 mg/L), respectively, over the native (63 mg/L) and 52-fold (68 mg/L), respectively, over the native yeast levels. 
+Combined over-expression of the phosphopantetheine transferase with the hFAS mutant resulted in C8 titers of up to 82 mg/L and total SCFA titers of up to 111 mg/L.
+Yeast and Bacterial Strains.
+Media and Cultivation.
+complex YPD media (10 or 20 g/L dextrose, 20 g/L peptone, 10 g/L yeast extract (BD Biosciences, Sparks, MD)), semi-defined SDC-A media (20 g/L dextrose, 5 g/L casamino acids, 5 g/L ammonium sulfate, 1.7 g/L yeast nitrogen base without amino acids, and supplementary constituents as needed: 100 mg/L adenine sulfate, 100 mg/L uracil, 100 mg/L L-histidine-HCL, 100 mg/L L-methionine, 150 mg/L L-leucine, 150 mg/L L-lysine-HCL) (Amberg et al., 2005). 
+All plates contained 20 g/L Bacto-agar. 
+For expression studies using the ADH2 promoter, YPD with 10 g/L dextrose was used. 
+For expression studies using the PGK1 promoter, selective SDC-A medium was used. 
+In these media, glucose is exhausted before 20 h. For the FAS2 knockout strain, the medium contained 2mM myristic acid with tween 40 (5 g/L) to supplement growth (Chirala et al., 1987). 
+The fatty acid supplement was heated to 55C for 30 min to increase solubility and then filter-sterilized.
+Four strains, BJASFP and BJAACPS expressing either the linked hFAS-TEII (pXP842-hFAS-TEII) or the linked hFAS- CpFatB1 (pXP842-hFAS-CpFatB1), were compared to the control strain BJ5464 (Fig. 8). 
+Extracellular fatty acid levels increased for all measurable SCFAs relative to the BJ5464 control (Fig. 8). 
+Linking the TE improved caprylic acid production 4- to 9-fold over the unlinked counterparts (Fig. 7), indicating the importance ofthe TE proximity to the FAS. 
+Strain BJASFP expressing linked hFAS-TEII produced the highest SCFA titers, reaching 63 mg/L C8 and 68 mg/L total SCFA. 
+Increasing SFP synthesis using a 2m vector increased C8 and SCFA levels by roughly an additional 30% to 82 mg/L and 111 mg/L, respectively.
+Yeast strains expressing the native yeast FAS (for C16 and C18 production), an hFAS mutant deficient in the TE domain and short chain TEs were constructed. 
+This resulted in a 17-fold increase in C8 levels compared to the wild-type strain in vivo. 
+Linking the short chain TEs to the hFAS resulted in a 4- to 9-fold increase in C8 levels over the unlinked counterparts and a 64-fold increase over the wild- type strain. 
+Combined over-expression of the PPT with the hFAS mutant resulted in C8 titers up to 82 mg/L and total SCFA titers up to 111 mg/L.
