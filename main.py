@@ -1,5 +1,6 @@
 import sys
 import os
+# import corenlp
 
 def sen_reader(txt_file):
     with open(txt_file) as f:
@@ -54,6 +55,8 @@ def test1():
     print("Most frequent 10 words {}".format(sorted_words[:10]))
 
 
+def tokenizer_bio():
+    pass
 
 if __name__ == "__main__":
     main()
