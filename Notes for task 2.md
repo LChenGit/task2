@@ -37,6 +37,12 @@ Notes for task 2
 * Transformations
 
 
+# Rule-based RE
+* input example: "water boils at 100 Celsius "
+After using Stanfold CoreNLP POS, we can get:
+* water(NN) boils(VBZ) at(IN) 100(CD) Celsius(NNP)
+
+
 # Library
 * How to use Stanford CoreNLP API in NLTK
 ```
@@ -80,4 +86,9 @@ $ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
 >>> ner_tagger = CoreNLPParser(url='http://localhost:9000', tagtype='ner').
 >>> list(ner_tagger.tag(('Rami Eid is studying at Stony Brook University in NY'.split())))
 [('Rami', 'PERSON'), ('Eid', 'PERSON'), ('is', 'O'), ('studying', 'O'), ('at', 'O'), ('Stony', 'ORGANIZATION'), ('Brook', 'ORGANIZATION'), ('University', 'ORGANIZATION'), ('in', 'O'), ('NY', 'STATE_OR_PROVINCE')]
+
+
+# penn or dependency format?
+-outputFormat "penn,typedDependencies"
 ```
+
